@@ -1,2 +1,4 @@
 hello
 Hello World! Working with git and gitHub and enjoying learning new concepts easily...
+This is a good way of learning
+Happy Learning!!
